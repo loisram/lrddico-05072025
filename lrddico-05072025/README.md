@@ -15,7 +15,11 @@
    git add README.md
    git commit -m"Initial commit"
 
-  
+   # Step 5
+   git add README.md
+   git commit -m"Pushing the commits"
+   git push -u origin main
+
 
 
    
